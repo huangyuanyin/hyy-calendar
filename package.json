@@ -1,0 +1,19 @@
+{
+  "name": "hhhh",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^5.24.2"
+  },
+  "devDependencies": {
+    "stylus": "^0.54.8",
+    "stylus-loader": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
